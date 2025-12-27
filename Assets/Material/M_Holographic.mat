@@ -53,14 +53,14 @@ Material:
     m_Floats:
     - _Alpha: 1
     - _DistortAmount: 0.195
-    - _EmissionIntensity: 9.37
+    - _EmissionIntensity: 8.86
     - _FlickerAmount: 0.214
     - _FlickerSpeed: 0
     - _QueueControl: 0
     - _QueueOffset: 0
     - _RimPower: 2.56
-    - _ScanDensity: 4
-    - _ScanSpeed: 0.3
+    - _ScanDensity: 11
+    - _ScanSpeed: 0.57
     m_Colors:
     - _BaseColor: {r: 0, g: 0, b: 0, a: 0}
     - _RimColor: {r: 0.87342346, g: 1, b: 0, a: 0}
