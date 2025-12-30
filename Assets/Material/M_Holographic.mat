@@ -58,7 +58,7 @@ Material:
     - _FlickerSpeed: 0
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RimPower: 2.56
+    - _RimPower: 3.72
     - _ScanDensity: 11
     - _ScanSpeed: 0.57
     m_Colors:
